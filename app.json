@@ -1,0 +1,12 @@
+{
+  "name": "training",
+  "displayName": "training",
+  "expo": {
+    "name": "training",
+    "slug": "training",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
