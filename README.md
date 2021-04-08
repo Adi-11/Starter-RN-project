@@ -1,8 +1,8 @@
-# Starter Project RN
+# Starter Project React-Native
 
 ## Check out the Environmental setup guide first
 
-You can check out the [Environmental setup guide here](https://bitbucket.org/academyayuda/training/src/main/Startup.md) .
+You can check out the [Environmental setup guide here](https://github.com/Adi-11/Starter-RN-project/blob/main/Startup.md) .
 
 ## Installing dependencies
 
@@ -13,9 +13,9 @@ Follow the [React Native Getting Started Guide](https://facebook.github.io/react
 - Clone repository and install dependencies:
 
   ```bash
-  $ git clone https://github.com/mayank1307/training.git
+  $ git clone https://github.com/Adi-11/Starter-RN-project.git
   or download the zip & extract
-  $ cd training
+  $ cd Starter-RN-project
   $ npm install
   ```
 
